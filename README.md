@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edupalli Likhitha Sai</h1>
 <h3 align="center">💻 Passionate Web Developer & Python Enthusiast</h3>
 
-- 🔭 I’m currently working on [Patient Management System](https://github.com/Lali182k5/Patient-Management-System)
 
 - 🌱 I’m currently learning **Fullstack Java ,React.JS and Angular.JS**
 
