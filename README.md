@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Fullstack Java ,React.JS and Angular.JS**
 
-- 👨‍💻 All of my projects are available at [https://likhithasai-portfolio-mmiu.vercel.app/](https://likhithasai-portfolio-mmiu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://likhitha-sai.vercel.app/](https://likhitha-sai.vercel.app/)
 
 - 💬 Ask me about **Python ,Java ,HTML ,CSS**
 
