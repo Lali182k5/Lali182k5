@@ -1,26 +1,75 @@
 <h1 align="center">Hi 👋, I'm Edupalli Likhitha Sai</h1>
-<h3 align="center">💻 Passionate Web Developer & Python Enthusiast</h3>
+<h3 align="center">Python Enthusiast | Backend Development Learner</h3>
 
+---
 
-- 🌱 I’m currently learning **Fullstack Java ,React.JS and Angular.JS**
+- 🎓 Final-year undergraduate student  
+- 🐍 Aspiring Python / Backend Engineer  
+- 🌱 Interested in open-source and explainable software engineering
 
-- 👨‍💻 All of my projects are available at [https://likhitha-sai.vercel.app/](https://likhitha-sai.vercel.app/)
+---
 
-- 💬 Ask me about **Python ,Java ,HTML ,CSS**
-
-- 📫 How to reach me **sailikhitha182005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🔧 What I Work With
 <p align="left">
-  <a href="https://github.com/Lali182k5" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lali182k5" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/likhitha-sai-edupalli-50ba5b2a1/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="likhitha-sai-edupalli" height="30" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="35" height="35" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35" height="35" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+- Python (clean, modular, explainable code)
+- FastAPI & REST APIs
+- Computer Vision (OpenCV, OCR)
+- Machine Learning pipelines (training → inference → deployment)
+- Git & GitHub
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lali182k5&" alt="lali182k5" /></p>
+---
+
+## 🐍 Python Projects
+
+### 🔹 Automatic Number Plate Recognition (ANPR)
+Python-based computer vision pipeline to detect and extract vehicle license plate numbers from images.  
+Focuses on image preprocessing, contour-based detection, and OCR with modular, explainable logic.
+
+---
+
+### 🔹 Personal Fitness Tracker
+Machine learning application to predict calories burned using user fitness data.  
+Implements data preprocessing, model inference, and visual insights with a simple Streamlit interface.
+
+---
+
+### 🔹 Gemini Pro ATS Resume Tracker
+Python-based resume analysis tool that compares resumes against job descriptions.  
+Uses rule-based text processing with AI-assisted semantic feedback while avoiding black-box dependency.
+
+---
+
+### 🔹 Deploying ML Pipeline with FastAPI
+End-to-end machine learning inference pipeline exposed through a REST API.  
+Demonstrates backend API design, request validation, and deployment using FastAPI and Docker.
+
+---
+
+### 🔹 Image Captioning System (Project-Based Training)
+Computer vision project that generates textual descriptions for images.  
+Worked on preprocessing, feature extraction, and inference flow while understanding model limitations and dataset bias.
+
+---
+
+## 🌱 Currently Learning
+- Backend best practices
+- API design & validation
+- Open-source contribution workflows
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Lali182k5  
+- LinkedIn: https://linkedin.com/in/likhitha-sai-edupalli-50ba5b2a1  
+- Email: sailikhitha182005@gmail.com
+
