@@ -3,7 +3,7 @@
 
 ---
 
-- 🎓 Final-year undergraduate student  
+- 🎓 B.Tech CSE Graduate 
 - 🐍 Aspiring Python / Backend Engineer  
 - 🌱 Interested in open-source and explainable software engineering
 
@@ -71,5 +71,5 @@ Worked on preprocessing, feature extraction, and inference flow while understand
 ## 📫 Connect With Me
 - GitHub: https://github.com/Lali182k5  
 - LinkedIn: https://linkedin.com/in/likhitha-sai-edupalli-50ba5b2a1  
-- Email: sailikhitha182005@gmail.com
+- Email: sailikhitha182005@gmail.com  or likhithasai182k5@gmail.com
 
